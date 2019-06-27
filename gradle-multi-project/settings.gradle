@@ -2,3 +2,4 @@ rootProject.name = 'gradle-multi-project'
 
 include 'greeting-library'
 include 'greeter'
+include 'docs'
